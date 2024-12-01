@@ -1,0 +1,3 @@
+C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_combobox/cmake-build-debug-msys2/CMakeFiles/gtk_combobox.dir
+C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_combobox/cmake-build-debug-msys2/CMakeFiles/edit_cache.dir
+C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_combobox/cmake-build-debug-msys2/CMakeFiles/rebuild_cache.dir

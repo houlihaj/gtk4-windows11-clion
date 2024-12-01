@@ -1,0 +1,3 @@
+C:\Users\johnh\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\gtk_headerbar.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\gtk_headerbar.dir/objects.a @CMakeFiles\gtk_headerbar.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\gtk_headerbar.dir/objects.a -Wl,--no-whole-archive -o gtk_headerbar.exe -Wl,--out-implib,libgtk_headerbar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gtk_headerbar.dir\linkLibs.rsp

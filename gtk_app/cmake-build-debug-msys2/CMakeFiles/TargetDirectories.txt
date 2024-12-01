@@ -1,0 +1,3 @@
+C:/Users/johnh/OneDrive/Documents/repos/gtk4-windows11-clion/gtk_app/cmake-build-debug-msys2/CMakeFiles/gtk_app.dir
+C:/Users/johnh/OneDrive/Documents/repos/gtk4-windows11-clion/gtk_app/cmake-build-debug-msys2/CMakeFiles/edit_cache.dir
+C:/Users/johnh/OneDrive/Documents/repos/gtk4-windows11-clion/gtk_app/cmake-build-debug-msys2/CMakeFiles/rebuild_cache.dir
