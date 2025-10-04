@@ -1,3 +1,0 @@
-C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_headerbar/cmake-build-debug-msys2/CMakeFiles/gtk_headerbar.dir
-C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_headerbar/cmake-build-debug-msys2/CMakeFiles/edit_cache.dir
-C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_headerbar/cmake-build-debug-msys2/CMakeFiles/rebuild_cache.dir

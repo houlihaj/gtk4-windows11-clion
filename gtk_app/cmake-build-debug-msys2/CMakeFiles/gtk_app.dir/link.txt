@@ -1,3 +1,0 @@
-C:\Users\johnh\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\gtk_app.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\gtk_app.dir/objects.a @CMakeFiles\gtk_app.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\gtk_app.dir/objects.a -Wl,--no-whole-archive -o gtk_app.exe -Wl,--out-implib,libgtk_app.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gtk_app.dir\linkLibs.rsp

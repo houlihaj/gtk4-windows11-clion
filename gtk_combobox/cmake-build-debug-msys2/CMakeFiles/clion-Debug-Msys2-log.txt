@@ -1,4 +1,0 @@
-C:\Users\johnh\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/msys64/ucrt64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/msys64/ucrt64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/msys64/ucrt64/bin/g++.exe -G "MinGW Makefiles" -S C:\Users\johnh\OneDrive\Documents\clion_projects\gtk_combobox -B C:\Users\johnh\OneDrive\Documents\clion_projects\gtk_combobox\cmake-build-debug-msys2
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/johnh/OneDrive/Documents/clion_projects/gtk_combobox/cmake-build-debug-msys2

@@ -5,14 +5,14 @@ This is a basic *HelloWorld* project for GTK4 on Windows. It is a regular CMake 
 
 Having said that, the tech stack I used for it consists of:
 - the CLion IDE
-- a toolchain based on Msys2 and MinGW64
+- a toolchain based on Msys2 (UCRT64 environment) and MinGW64
 
 ## Instructions for windows
 
 Download and install Msys2 from [msys2.org](https://www.msys2.org/). Then, open an Msys2 shell and install all build tools and libraries needed: 
 ```shell
-pacman -S mingw-w64-x86_64-gtk4 &&
-pacman -S mingw-w64-x86_64-toolchain
+pacman -S mingw-w64-ucrt-x86_64-gtk4 &&
+pacman -S mingw-w64-ucrt-x86_64-toolchain base-devel
 ```
 
 Next, configure the toolchain. Go to **Settings > Build, Execution, Deployment > Toolchains** and configure your toolchain as shown in the image below.
